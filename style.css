@@ -4,7 +4,9 @@ body {
 }
 
 .content {
-    width: 50%;
+    padding-top: 64px;
+    padding-bottom: 64px;
+    width: 75%;
     margin: auto;
 }
 
@@ -14,6 +16,16 @@ body {
     border: 3px solid #ab84ef;
     margin: 24px;
 }
+
+.skill {
+    padding-top: 16px;
+    padding-bottom: 16px;
+    margin-top: 16px;
+    margin-bottom: 16px;
+    border: 3px solid #ab84ef;
+    border-radius: 8px;
+}
+
 
 /* Colors */
 .violet {
