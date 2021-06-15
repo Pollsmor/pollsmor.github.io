@@ -3,6 +3,10 @@ body {
     color: white;
 }
 
+img {
+    margin: 8px;
+}
+
 .content {
     padding-top: 64px;
     padding-bottom: 64px;
