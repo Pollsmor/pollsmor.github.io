@@ -3,10 +3,6 @@ body {
     color: white;
 }
 
-img {
-    margin: 8px;
-}
-
 .content {
     padding-top: 64px;
     padding-bottom: 64px;
@@ -38,6 +34,10 @@ img {
     border-radius: 16px;
 }
 
+.social {
+    margin: 8px;
+}
+
 /* Grades */
 .grade {
     width: 36px;
@@ -53,4 +53,8 @@ img {
 /* Colors */
 .violet {
     color: #ab84ef;
+}
+
+.black {
+    color: black;
 }
